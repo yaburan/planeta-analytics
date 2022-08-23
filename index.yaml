@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  planeta:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-24T03:05:10.618814152+04:00"
+    description: Planeta Analytics
+    digest: 45fee5b428e98e4215e7655487925d71c9db8c76d3fd571b1f3098e09218cd8f
+    maintainers:
+    - email: yabramov@ibs.ru
+      name: Yuriy Abramov
+    name: planeta
+    type: application
+    urls:
+    - https://yaburan.github.io/planeta-analytics/planeta-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-08-24T03:05:10.618022689+04:00"
